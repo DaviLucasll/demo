@@ -7,3 +7,4 @@
 	* `git push -u origin main` will put the local repositorie to a cloud that you want
 	* `git push` will push the commit with modifications to github
 	* Now i know how to push terminal commits to github
+	* adding line
